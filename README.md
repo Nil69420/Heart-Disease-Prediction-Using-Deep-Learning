@@ -5,10 +5,10 @@
 </div>
 
 <p align="left">
-  <img width="460" height="300" src="images/pien.PNG">
+  <img width="460" height="300" src="images/pien.png">
 </p>
 
 
 <p align="left">
-  <img width="460" height="300" src="images/pienpien.PNG">
+  <img width="460" height="300" src="images/pienpien.png">
 </p>
